@@ -1,0 +1,32 @@
+.pet-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin: 1rem;
+  max-width: 300px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.pet-card:hover {
+  transform: translateY(-5px);
+}
+
+.pet-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.pet-card ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.match-score {
+  font-weight: bold;
+  color: #4caf50;
+  margin-top: 0.5rem;
+}

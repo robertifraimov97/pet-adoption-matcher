@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "species": "dog",
+    "age": 3,
+    "goodWithKids": true,
+    "needsYard": true,
+    "energyLevel": "high",
+    "hypoallergenic": false,
+    "experienceRequired": true,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 2,
+    "name": "Luna",
+    "species": "cat",
+    "age": 2,
+    "goodWithKids": true,
+    "needsYard": false,
+    "energyLevel": "low",
+    "hypoallergenic": true,
+    "experienceRequired": false,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 3,
+    "name": "Max",
+    "species": "dog",
+    "age": 5,
+    "goodWithKids": false,
+    "needsYard": true,
+    "energyLevel": "medium",
+    "hypoallergenic": false,
+    "experienceRequired": true,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 4,
+    "name": "Coco",
+    "species": "rabbit",
+    "age": 1,
+    "goodWithKids": true,
+    "needsYard": false,
+    "energyLevel": "low",
+    "hypoallergenic": true,
+    "experienceRequired": false,
+     "image": "https://placedog.net/400/300?id=1"
+  }
+]

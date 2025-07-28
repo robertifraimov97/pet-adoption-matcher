@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "species": "dog",
+    "age": 3,
+    "goodWithKids": true,
+    "needsYard": true,
+    "energyLevel": "high",
+    "hypoallergenic": false,
+    "experienceRequired": true,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 2,
+    "name": "Luna",
+    "species": "cat",
+    "age": 2,
+    "goodWithKids": true,
+    "needsYard": false,
+    "energyLevel": "low",
+    "hypoallergenic": true,
+    "experienceRequired": false,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 3,
+    "name": "Max",
+    "species": "dog",
+    "age": 5,
+    "goodWithKids": false,
+    "needsYard": true,
+    "energyLevel": "medium",
+    "hypoallergenic": false,
+    "experienceRequired": true,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 4,
+    "name": "Coco",
+    "species": "rabbit",
+    "age": 1,
+    "goodWithKids": true,
+    "needsYard": false,
+    "energyLevel": "low",
+    "hypoallergenic": true,
+    "experienceRequired": false,
+     "image": "https://placedog.net/400/300?id=1"
+  },
+  {
+  "id": 5,
+  "name": "Charlie",
+  "species": "dog",
+  "age": 4,
+  "goodWithKids": false,
+  "needsYard": false,
+  "energyLevel": "medium",
+  "hypoallergenic": true,
+  "experienceRequired": false,
+  "image": "https://placedog.net/400/300?id=5"
+},
+{
+  "id": 6,
+  "name": "Milo",
+  "species": "cat",
+  "age": 6,
+  "goodWithKids": false,
+  "needsYard": false,
+  "energyLevel": "low",
+  "hypoallergenic": false,
+  "experienceRequired": false,
+  "image": "https://placedog.net/400/300?id=7"
+},
+{
+  "id": 7,
+  "name": "Bella",
+  "species": "dog",
+  "age": 2,
+  "goodWithKids": true,
+  "needsYard": true,
+  "energyLevel": "high",
+  "hypoallergenic": false,
+  "experienceRequired": false,
+  "image": "https://placedog.net/400/300?id=7"
+},
+{
+  "id": 8,
+  "name": "Snowball",
+  "species": "rabbit",
+  "age": 1,
+  "goodWithKids": false,
+  "needsYard": false,
+  "energyLevel": "low",
+  "hypoallergenic": true,
+  "experienceRequired": false,
+  "image": "https://placebear.com/400/300"
+},
+{
+  "id": 9,
+  "name": "Shadow",
+  "species": "dog",
+  "age": 7,
+  "goodWithKids": true,
+  "needsYard": false,
+  "energyLevel": "low",
+  "hypoallergenic": true,
+  "experienceRequired": true,
+  "image": "https://placedog.net/400/300?id=9"
+}
+]
