@@ -1,0 +1,77 @@
+.shelters-section {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.shelters-section h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 2rem;
+  font-size: 1.8rem;
+}
+
+.shelter-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+.shelter-card {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.shelter-card:hover {
+  transform: translateY(-4px);
+}
+
+.shelter-card h3 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.shelter-card .location {
+  color: #555;
+  margin-bottom: 0.8rem;
+}
+
+.shelter-card a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #4CAF50;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.shelter-card a:hover {
+  text-decoration: underline;
+}
+
+.navigate-button {
+  display: block;
+  width: 100%;
+  padding: 0.9rem;
+  background-color: #4CAF50;
+  color: #fff !important;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 0.75rem;
+}
+
+.navigate-button:hover {
+  background-color: #43a047;
+}

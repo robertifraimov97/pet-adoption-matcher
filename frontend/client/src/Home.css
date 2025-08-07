@@ -65,7 +65,7 @@ body {
 }
 
 .hero h1 {
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin-bottom: 1rem;
   color: #2c3e50;
 }
@@ -77,8 +77,8 @@ body {
 }
 
 .hero button {
-  padding: 0.75rem 2rem;
-  font-size: 1rem;
+  padding: 0.9rem 2.1rem;
+  font-size: 1.5rem;
   background-color: #28a745;
   color: white;
   border: none;
@@ -143,7 +143,7 @@ body {
 }
 
 .benefits {
-  margin-top: 3rem; /* ✅ מוסיף רווח מלמעלה */
+  margin-top: 3rem;
   padding: 2rem;
   background-color: #f9f9f9;
   border-radius: 12px;

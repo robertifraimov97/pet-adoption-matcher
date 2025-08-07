@@ -1,0 +1,28 @@
+.custom-footer {
+  background-color: #4CAF50;
+  padding: 2rem 0;
+}
+
+.custom-footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.custom-footer a:hover {
+  text-decoration: underline;
+}
+
+.custom-footer input[type="email"] {
+  width: 100%;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.form-control {
+  font-size: 16px;
+  padding: 5px;
+}

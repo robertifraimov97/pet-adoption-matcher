@@ -1,0 +1,247 @@
+[
+  {
+    "timestamp": "2025-08-04T13:44:09.944Z",
+    "answers": {
+      "hasKids": "yes",
+      "hasYard": "apartment",
+      "outOften": "yes",
+      "hasExperience": "yes",
+      "hasAllergy": "yes"
+    },
+    "matchedPets": [
+      {
+        "id": 1,
+        "name": "Buddy",
+        "species": "dog",
+        "age": 3,
+        "goodWithKids": true,
+        "needsYard": true,
+        "energyLevel": "high",
+        "hypoallergenic": false,
+        "experienceRequired": true,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 60
+      },
+      {
+        "id": 2,
+        "name": "Luna",
+        "species": "cat",
+        "age": 2,
+        "goodWithKids": true,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 60
+      },
+      {
+        "id": 4,
+        "name": "Coco",
+        "species": "rabbit",
+        "age": 1,
+        "goodWithKids": true,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 60
+      },
+      {
+        "id": 5,
+        "name": "Charlie",
+        "species": "dog",
+        "age": 4,
+        "goodWithKids": false,
+        "needsYard": false,
+        "energyLevel": "medium",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=5",
+        "matchScore": 60
+      },
+      {
+        "id": 7,
+        "name": "Bella",
+        "species": "dog",
+        "age": 2,
+        "goodWithKids": true,
+        "needsYard": true,
+        "energyLevel": "high",
+        "hypoallergenic": false,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=7",
+        "matchScore": 60
+      },
+      {
+        "id": 9,
+        "name": "Shadow",
+        "species": "dog",
+        "age": 7,
+        "goodWithKids": true,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": true,
+        "image": "https://placedog.net/400/300?id=9",
+        "matchScore": 60
+      },
+      {
+        "id": 3,
+        "name": "Max",
+        "species": "dog",
+        "age": 5,
+        "goodWithKids": false,
+        "needsYard": true,
+        "energyLevel": "medium",
+        "hypoallergenic": false,
+        "experienceRequired": true,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 40
+      },
+      {
+        "id": 8,
+        "name": "Snowball",
+        "species": "rabbit",
+        "age": 1,
+        "goodWithKids": false,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placebear.com/400/300",
+        "matchScore": 40
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-07T12:22:40.266Z",
+    "answers": {
+      "hasKids": "yes",
+      "hasYard": "apartment",
+      "outOften": "no",
+      "hasExperience": "yes",
+      "hasAllergy": "no"
+    },
+    "matchedPets": [
+      {
+        "id": 1,
+        "name": "Buddy",
+        "species": "dog",
+        "age": 3,
+        "goodWithKids": true,
+        "needsYard": true,
+        "energyLevel": "high",
+        "hypoallergenic": false,
+        "experienceRequired": true,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 60
+      },
+      {
+        "id": 2,
+        "name": "Luna",
+        "species": "cat",
+        "age": 2,
+        "goodWithKids": true,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 60
+      },
+      {
+        "id": 4,
+        "name": "Coco",
+        "species": "rabbit",
+        "age": 1,
+        "goodWithKids": true,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 60
+      },
+      {
+        "id": 7,
+        "name": "Bella",
+        "species": "dog",
+        "age": 2,
+        "goodWithKids": true,
+        "needsYard": true,
+        "energyLevel": "high",
+        "hypoallergenic": false,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=7",
+        "matchScore": 60
+      },
+      {
+        "id": 9,
+        "name": "Shadow",
+        "species": "dog",
+        "age": 7,
+        "goodWithKids": true,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": true,
+        "image": "https://placedog.net/400/300?id=9",
+        "matchScore": 60
+      },
+      {
+        "id": 3,
+        "name": "Max",
+        "species": "dog",
+        "age": 5,
+        "goodWithKids": false,
+        "needsYard": true,
+        "energyLevel": "medium",
+        "hypoallergenic": false,
+        "experienceRequired": true,
+        "image": "https://placedog.net/400/300?id=1",
+        "matchScore": 40
+      },
+      {
+        "id": 5,
+        "name": "Charlie",
+        "species": "dog",
+        "age": 4,
+        "goodWithKids": false,
+        "needsYard": false,
+        "energyLevel": "medium",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=5",
+        "matchScore": 40
+      },
+      {
+        "id": 6,
+        "name": "Milo",
+        "species": "cat",
+        "age": 6,
+        "goodWithKids": false,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": false,
+        "experienceRequired": false,
+        "image": "https://placedog.net/400/300?id=7",
+        "matchScore": 40
+      },
+      {
+        "id": 8,
+        "name": "Snowball",
+        "species": "rabbit",
+        "age": 1,
+        "goodWithKids": false,
+        "needsYard": false,
+        "energyLevel": "low",
+        "hypoallergenic": true,
+        "experienceRequired": false,
+        "image": "https://placebear.com/400/300",
+        "matchScore": 40
+      }
+    ]
+  }
+]

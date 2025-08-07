@@ -1,5 +1,4 @@
 .app {
-  padding: 2rem;
   font-family: sans-serif;
 }
 body {
@@ -61,9 +60,4 @@ body {
     font-size: 1rem;
     padding: 0.6rem 1rem;
   }
-}
-
-.app {
-  padding: 2rem;
-  font-family: sans-serif;
 }

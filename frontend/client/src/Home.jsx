@@ -34,7 +34,7 @@ function Home() {
             for both pets and people. Join us in helping animals find loving homes!
         </p>
 
-        <button onClick={startMatching}>Start Matching 🐶</button>
+        <button onClick={startMatching}>Start Matching</button>
       </div>
         <section className="quick-categories">
             <h2>Explore Categories</h2>
@@ -51,8 +51,8 @@ function Home() {
                     <span role="img" aria-label="paw">🐾</span>
                     <p>Other Animals</p>
                 </div>
-                <div className="card">
-                    <span role="img" aria-label="shelter">🏠</span>
+                <div className="card" onClick={() => navigate("/shelters")}>
+                    <span role="img" aria-label="shelter" >🏠</span>
                     <p>Shelters</p>
                 </div>
         </div>
